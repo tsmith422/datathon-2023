@@ -26,3 +26,5 @@ the specifics of their condition.*
 - resources: Useful resources related to the Datathon including Python documentation, programming library resources, etc.
 
 *If you have any questions do not hesitate to reach out!*
+
+*Copyright (c) 2023 Taylor Smith, Arul Dhar, and Bao Nguyen*
